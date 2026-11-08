@@ -1,9 +1,5 @@
 ## 髙橋 浩樹 / Hiroki Takahashi
 
-立命館大学 理工学部 電子情報工学科 3 回生（2028 年 3 月 卒業予定）。
-Baseconnect 株式会社で AI エンジニアとして長期インターン中。
-本番の LLM パイプラインの精度改善と、その評価の仕組みを担当しています。
-
 **ポートフォリオ**: https://h11roki.github.io/
 （English: https://h11roki.github.io/en/）
 
